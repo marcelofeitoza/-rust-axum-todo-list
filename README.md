@@ -68,5 +68,3 @@ The `docker-compose.yml` file contains the following services:
 
 - **postgres**: The PostgreSQL database server.
 - **pgAdmin**: A web-based administration tool for PostgreSQL.
-
-After starting the server, you can access the todo list application by navigating to http://localhost:5500 in your web browser.
